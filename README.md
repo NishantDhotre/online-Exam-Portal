@@ -1,7 +1,7 @@
 # online-Exam-Portal
 
 ## dashboard
-![Screenshot of Application](resources/Screenshot (485).png)
+![Screenshot of Application](https://github.com/NishantDhotre/online-Exam-Portal/blob/d6e4d4eedd20d70eb34bbf12e2ccf4626d1a110a/resources/Screenshot%20(485).png)
 ## Results of test
 ![Screenshot of Application](resources/Screenshot (486).png)
 ## Exam interface

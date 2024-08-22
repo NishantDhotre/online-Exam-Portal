@@ -13,4 +13,4 @@
 ## Login page
 ![Screenshot of Application](https://github.com/NishantDhotre/online-Exam-Portal/blob/bd32e0568824ead540abbdb6991de36cccef2cf7/resources/Screenshot%20(490).png)
 ## Sign up page
-![Screenshot of Application]((https://github.com/NishantDhotre/online-Exam-Portal/blob/bd32e0568824ead540abbdb6991de36cccef2cf7/resources/Screenshot%20(491).png)) 
+![Screenshot of Application](https://github.com/NishantDhotre/online-Exam-Portal/blob/77e9c055e3fa4f707429de047aa6d3532d527873/resources/Screenshot%20(491).png) 
